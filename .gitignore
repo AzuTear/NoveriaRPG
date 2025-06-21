@@ -1,0 +1,14 @@
+# Rider
+.idea/
+*.sln.docstates
+
+# Backend
+/backend/**/bin/
+/backend/**/obj/
+
+# Frontend
+/frontend/node_modules/
+/frontend/dist/
+
+# System
+.DS_Store
